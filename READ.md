@@ -8,7 +8,7 @@ These are concepts taught and learnt in general:
 4. Session management (cookies, tokens)
 
 
-  ** - Day/Week - Amount of effort - Reason of effort **
+  **- Day/Week - Amount of effort - Reason of effort **
 
   # - 1/1  - Little - FQ test
   // simple basic concepts(like Password Security) 
