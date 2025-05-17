@@ -8,8 +8,10 @@ These are concepts taught:
 4.
 
 
-  #- Day/Week - Amount of effort - Reason of effort
+  # - Day/Week - Amount of effort - Reason of effort
 
-  #- 1/1  - Little - FQ test
-  Basics concepts(like Password Security) 
-  Download
+  # - 1/1  - Little - FQ test
+  . simple basic concepts(like Password Security) 
+  . addition of python modules like re, string
+
+  
