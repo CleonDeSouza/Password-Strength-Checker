@@ -8,10 +8,10 @@ These are concepts taught and learnt in general:
 4. Session management (cookies, tokens)
 
 #
- __- Day/Week - Amount of effort - Reason of effort__
+ __- Day/Week__
  #
 
-  ## - 1/1  - Little - FQ test
+  ## - 1/1
   simple basic concepts(like Password Security)  
   addition of python modules like re, string
 
