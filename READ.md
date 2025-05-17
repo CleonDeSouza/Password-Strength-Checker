@@ -8,10 +8,10 @@ These are concepts taught and learnt in general:
 4. Session management (cookies, tokens)
 
 #
- __- Day/Week__
+ __- Day/Week - Date__
  #
 
-  ## - 1/1
+  ## - 1/1 - 17/5/2025
   simple basic concepts(like Password Security)  
   addition of python modules like re, string
 
