@@ -1,7 +1,7 @@
 My first project related to Cybersecurity, 
 This project is supposed to ***evaluate password complexity based on length, character types, and common patterns.***
 ##
-##These are concepts taught and learnt in general:
+## These are concepts taught and learnt in general:
 1. Password Security  
 2. re & string modules  
 3. 2FA & RBAC  
