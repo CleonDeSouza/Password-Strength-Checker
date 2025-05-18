@@ -12,7 +12,7 @@ This project is supposed to ***evaluate password complexity based on length, cha
 
   ## - 1/1 - 17/5/2025
   simple basic concepts(like Password Security)  
-  learning re
+  learning re  
   making basic app
 
   ## - 2/1 - 18/5/2025
