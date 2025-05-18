@@ -17,5 +17,8 @@ This project is supposed to ***evaluate password complexity based on length, cha
 
   ## - 2/1 - 18/5/2025
   fixing and smoothering code,  
+  blacklisted words,  
+  l33t handling,  
+  
   
   
