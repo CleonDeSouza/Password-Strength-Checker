@@ -12,7 +12,7 @@ def check_pass(x):
      if rex.search(r'[0-9]', x): strength += 1
      if rex.search(r'[^A-Za-z0-9]', x): strength += 1
      if strength == -1: strength = 0
-     if any(word in pwd_lower for word in weakp): strength == 0
+     if any(word in pwd_lower for word in weakp): strength = 0
 
      strength = min(strength, 4)
      return cl_strength[strength]
