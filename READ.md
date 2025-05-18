@@ -15,4 +15,7 @@ This project is supposed to ***evaluate password complexity based on length, cha
   learning re
   making basic app
 
+  ## - 2/1 - 18/5/2025
+  fixing and smoothering code
+  
   
