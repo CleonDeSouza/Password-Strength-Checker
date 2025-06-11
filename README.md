@@ -12,12 +12,12 @@ Password Entropy projects are fundamental in today's society. 67,9% of the world
 ***2. Weak base passwords***: The program takes statistically, the weakest passwords. Using a weak passwords always gives a "Very bad" evaluation, due to it's weakness.
 ***3. Password entropy***: The program will have a built-in password entropy, it will detect whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3o.
 
-|---------|--------------|
+
 |Date|Achievements|
 |---------|--------------|
-|17/05/2025	| Core password security concepts implemented|
+|17/05/2025	| Core password security concepts, Regex module implemented|
 |18/05/2025	| Added regex-based blacklist detection|
-|11/06/2025	| Expanded leet mapping (+300% coverage)|
+|11/06/2025	| Expanded leet mapping and blacklisted passwords (+300% coverage)|
 
 
   
