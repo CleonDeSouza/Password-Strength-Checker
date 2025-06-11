@@ -8,7 +8,7 @@ Password Entropy projects are fundamental in today's society. 67.9% of the world
 
 ***1. 1337 typing***: Detects 1337 to detect passwords like admin(@dm!n, 4dm1n) or password(p@55w0rd, 9@55w0rd).  
 ***2. Weak base passwords***: Weak passwords automatically receive 'Very Weak' ratings.  
-***3. Password entropy***: Detects whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3.  
+***3. Password entropy***: Detects whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3 using bit sizes.  
 
 
 # History:
