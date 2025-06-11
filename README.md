@@ -3,7 +3,7 @@ My first project related to Cybersecurity, it evaluates password complexity base
 ##
 ## Why do projects like this matter?:
 
-Password Entropy projects are fundamental in today's society. 67.9% of the world uses the internet, and some of these people are bound to make weak, easy-to-break-in passwords, this puts their security and privacy at risk. Stronger password evaluator that have similar functions as mine can be implemented in web apps or software to evaluate these passwords.
+Password Entropy projects are fundamental in today's society. 67,9% of the world uses the internet, and some of these people are bound to make weak, easy-to-break-in passwords, this puts their security and privacy at risk. Stronger password evaluator that have similar functions as mine can be implemented in web apps or software to evaluate these passwords.
 
 ##
 ## What does my project evaluate?:
@@ -12,22 +12,12 @@ Password Entropy projects are fundamental in today's society. 67.9% of the world
 ***2. Weak base passwords***: The program takes statistically, the weakest passwords. Using a weak passwords always gives a "Very bad" evaluation, due to it's weakness.
 ***3. Password entropy***: The program will have a built-in password entropy, it will detect whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3o.
 
- # HISTORY
 
-  ## - 17/5/2025
-  Simple basic concepts(like Password Security),  
-  Learning re module,  
-  Making basic app,
+|---------|--------------|
+|17/05/2025	| Core password security concepts implemented|
+|18/05/2025	| Added regex-based blacklist detection|
+|11/06/2025	| Expanded leet mapping (+300% coverage)|
 
-  ## - 18/5/2025
-  fixing and smoothing code out,  
-  blacklisted words,  
-  l33t handling,  
-
-  ## - 11/6/2025
-  Growing 1337 map so it detects other similar types of leet found on Wikipedia(https://en.wikipedia.org/wiki/Leet)
-  Adding more Blacklisted easy-to-guess passwords for auto-evaluation found on Wikipedia(https://en.wikipedia.org/wiki/List_of_the_most_common_passwords)
-  
 
   
   
