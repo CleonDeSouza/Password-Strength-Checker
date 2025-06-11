@@ -11,7 +11,7 @@ Password Entropy projects are fundamental in today's society. 67.9% of the world
 ***3. Password entropy***: Detects whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3.  
 
 
-# Past Implementations:
+# History:
 |Date|Achievements|
 |---------|--------------|
 |17/05/2025	| Core password security concepts, Regex module implemented|
