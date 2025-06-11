@@ -8,9 +8,9 @@ Password Entropy projects are fundamental in today's society. 67,9% of the world
 ##
 ## What does my project evaluate?:
 
-***1. 1337 typing***: The program has a leet map which detects 5¥/V\ß015(Symbols) to skip basic weak passwords like admin(@dm!n, 4dm1n) or password(p@55w0rd, 9@55w0rd).
-***2. Weak base passwords***: The program takes statistically, the weakest passwords. Using a weak passwords always gives a "Very bad" evaluation, due to it's weakness.
-***3. Password entropy***: The program will have a built-in password entropy, it will detect whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3o.
+***1. 1337 typing***: The program has a leet map which detects 5¥/V\ß015(Symbols) to skip basic weak passwords like admin(@dm!n, 4dm1n) or password(p@55w0rd, 9@55w0rd).  
+***2. Weak base passwords***: The program takes statistically, the weakest passwords. Using a weak passwords always gives a "Very bad" evaluation, due to it's weakness.  
+***3. Password entropy***: The program will have a built-in password entropy, it will detect whether 12March1997 is stronger than 2#JFWfwcmsa@#01_3.  
 
 
 |Date|Achievements|
